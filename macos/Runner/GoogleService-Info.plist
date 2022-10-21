@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>551740749972-5dp07jeuhqg39qupj94djj6gb7g3797g.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.551740749972-5dp07jeuhqg39qupj94djj6gb7g3797g</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBqag6564BRewg9t_Ag_ycZOuglc3Qbfs8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>551740749972</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>app.netlify.dagimassefa.mynote</string>
+	<key>PROJECT_ID</key>
+	<string>mynotes-with-authenication</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mynotes-with-authenication.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:551740749972:ios:c1b76d26f9801bf3a45c81</string>
+</dict>
+</plist>

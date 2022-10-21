@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1036098052424",
+    "project_id": "notes-with-auth",
+    "storage_bucket": "notes-with-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036098052424:android:33e88bef6298fda2a5537d",
+        "android_client_info": {
+          "package_name": "app.netlify.dagimassefa.mynote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036098052424-g0u5n605g9ak07mj34cpq7ms5ovlgfq4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVJTydcZ1tEihhYFS_PNtbnbPWqbtN8MM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036098052424-g0u5n605g9ak07mj34cpq7ms5ovlgfq4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
